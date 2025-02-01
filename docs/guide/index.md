@@ -4,7 +4,7 @@ Rspress supports not only Markdown but also [MDX](https://mdxjs.com/), a powerfu
 
 ## Markdown
 
-MDX is a superset of Markdown, which means you can write Markdown files as usual. For example:
+MDX is a superset of Markdown, which means you can write Markdown files as usual. For example: as
 
 ```md
 # Hello world
