@@ -1,0 +1,30 @@
+[
+  {
+    "type": "dir",
+    "name": "intro",
+    "label": "Intro",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "8080",
+    "label": "8080",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "6502",
+    "label": "6502",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "chip8",
+    "label": "Chip-8",
+    "collapsible": true,
+    "collapsed": false
+  }
+]

@@ -5,12 +5,12 @@
     "activeMatch": "/guide/"
   },
   {
-    "text": "Hello world",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
+    "text": "Emulation",
+    "link": "/emu/intro/",
+    "activeMatch": "/emu/"
   },
   {
     "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "link": "https://github.com/Alfredoes234/opendoc"
   }
 ]

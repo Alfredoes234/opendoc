@@ -1,5 +1,5 @@
 {
-  "name": "documentation",
+  "name": "trest",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,10 @@
     "preview": "rspress preview"
   },
   "dependencies": {
-    "rspress": "^1.40.0"
+    "rspress": "^1.40.2"
   },
   "devDependencies": {
     "@types/node": "^18.11.17",
-    "prettier": "^3.4.1"
+    "prettier": "^3.4.2"
   }
 }
